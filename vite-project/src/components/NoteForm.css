@@ -1,0 +1,10 @@
+.Note{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Note form{
+    display: flex;
+    flex-direction: column;
+}

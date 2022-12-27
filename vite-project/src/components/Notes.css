@@ -1,0 +1,17 @@
+.notes-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3rem 12rem;
+    
+}
+.note{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 1rem;
+    background-color: bisque;
+    margin-bottom:12px ;
+}

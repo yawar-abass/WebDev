@@ -1,0 +1,22 @@
+#242582
+#553D67
+#F64C72
+#99738E
+#2F2FA2
+
+
+
+#d8514e
+
+#274060
+#1B2845
+
+hover nav-item color : #5899E2
+
+rgb(104,104,104)
+
+wpcf7-form-control wpcf7-text wpcf7-validates-as-required
+
+
+PlugIns :- 1) CPT(Custom Post Type)
+    (2) ACF(Advanced Custom Fields) -> For Custom Post Type
